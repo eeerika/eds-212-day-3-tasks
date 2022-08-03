@@ -1,0 +1,11 @@
+---
+title: "Day 3 Activities: Coding Practice"
+author: "Erika"
+date: "2022-08-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
